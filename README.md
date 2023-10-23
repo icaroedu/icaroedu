@@ -1,8 +1,5 @@
 # icaroedu
 
-<img align="center" style="margin-bottom:" width= src="https://drive.expresso.pe.gov.br/index.php/apps/files_sharing/ajax/publicpreview.php?x=1920&y=619&a=true&file=GithubPortifolio.JPG&t=QHthdmzhpVrSnJ2&scalingup=0" />
-&nbsp;&nbsp;&nbsp;
-
 <p align="center">I ❤️ solve great challenges using tech. <br><br>frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
