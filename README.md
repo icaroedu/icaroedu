@@ -41,6 +41,7 @@
 #### Studying in this moment:
 
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
+![Estacio](https://img.shields.io/badge/estacio-4285F4?style=for-the-badge&logo=estacio&logoColor=white)&nbsp;
 
 #### Databases:
 
