@@ -3,8 +3,7 @@
 <p align="center">I ❤️ solve great challenges using tech. <br><br>FrontEnd Development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack entry-level developer</strong> focused on web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=icaroedu&theme=radical&mode=weekly" />&nbsp;
- <img width=40% align="center" src="https://github-readme-stats-git-main-icaroedu.vercel.app/api/top-langs/?username=icaroedu&show_icons=true&theme=radical&layout=compact" />&nbsp;
+
 </div>
  
  &nbsp;
