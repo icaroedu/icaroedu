@@ -4,7 +4,7 @@
 
 <div  align="center" style="margin-bottom:80px">
  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=icaroedu&theme=radical&mode=weekly" />&nbsp;
- <img width=40% align="center" src="https://github-readme-stats-git-main-icaroedu.vercel.app/api/top-langs/?username=icaroedu&show_icons=true&theme=radical&layout=compact" />
+ <img width=30% align="center" src="https://github-readme-stats-git-main-icaroedu.vercel.app/api/top-langs/?username=icaroedu&show_icons=true&theme=radical&layout=compact" />
 </div>
  
  &nbsp;
