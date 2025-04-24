@@ -63,7 +63,7 @@
 
 ### 📚 Studying in this moment:
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
-![Estacio](https://img.shields.io/badge/Estácio-4285F4?style=for-the-badge&logo=Estacio&logoColor=white)&nbsp;
+![Alura](https://img.shields.io/badge/Alura-4285F4?style=for-the-badge&logo=Alura&logoColor=white)&nbsp;
 
 ### 📊 Databases:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
